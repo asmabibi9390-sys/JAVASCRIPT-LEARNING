@@ -13,4 +13,4 @@ const person1 = new Person("Asma");
 
 console.log(Person.classInfo);
 
-console.log(Person.about());
+console.log(Person.about()); 
