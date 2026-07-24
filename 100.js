@@ -1,6 +1,6 @@
 // Get and Set Attributes
-// const link = document.getElementById("link");
+const link = document.getElementById("link");
 
-// console.log(link.getAttribute("href"));
+console.log(link.getAttribute("href"));
 
  
