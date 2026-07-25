@@ -1,5 +1,3 @@
-// Change the Styles of Elements
-const mainHeading = document.getElementById("main-heading");
-
-mainHeading.style.color = "white";
-mainHeading.style.backgroundColor = "black";
+// Get and Set Attributes
+const input = document.querySelector("input");
+console.log(input.getAttribute("type"));
